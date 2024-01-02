@@ -1,6 +1,8 @@
 
 # NuLink Testnet Horus 2.0
-- [Submit Form](https://docs.google.com/forms/d/e/1FAIpQLSdY2eXwQD-tKvJ_Ug-6hgdcWK_wUOZjXeJknw5XWSEO8gzJ2w/viewform) | [More Info](https://www.nulink.org/blog-posts/nulink-testnet-horus-2-0-phase-one-testing-rules)
+- [Submit Form](https://docs.google.com/forms/d/e/1FAIpQLSdY2eXwQD-tKvJ_Ug-6hgdcWK_wUOZjXeJknw5XWSEO8gzJ2w/viewform)
+- [More Info](https://www.nulink.org/blog-posts/nulink-testnet-horus-2-0-phase-one-testing-rules)
+- [Dashboard](https://dashboard.testnet.nulink.org/)
 
 
 ![nlk](https://github.com/Lorento34/NuLink-Testnet-Horus-2.0/assets/84406096/5942336a-d881-4c50-8504-63fc6609c957)
