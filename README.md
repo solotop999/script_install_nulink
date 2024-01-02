@@ -1,8 +1,9 @@
-
+![image](https://github.com/solotop999/script_install_nulink/assets/24671262/91ecd6a7-0432-4686-a748-21c250979320)
 # NuLink Testnet Horus 2.0
 - [Submit Form](https://docs.google.com/forms/d/e/1FAIpQLSdY2eXwQD-tKvJ_Ug-6hgdcWK_wUOZjXeJknw5XWSEO8gzJ2w/viewform)
 - [More Info](https://www.nulink.org/blog-posts/nulink-testnet-horus-2-0-phase-one-testing-rules)
 - [Dashboard | Faucet](https://dashboard.testnet.nulink.org/)
+- [Video Tutorial](https://x.com/solotop999/status/1742176214155198899?s=20)
 
 ![nlk](https://github.com/Lorento34/NuLink-Testnet-Horus-2.0/assets/84406096/5942336a-d881-4c50-8504-63fc6609c957)
 
