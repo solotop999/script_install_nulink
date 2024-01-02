@@ -34,6 +34,7 @@
   
 ```
 git clone https://github.com/solotop999/script_install_nulink.git
+cd script_install_nulink
 chmod +x script_install_nulink.sh
 ./script_install_nulink.sh
 ```
