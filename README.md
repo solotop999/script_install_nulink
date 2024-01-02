@@ -28,6 +28,7 @@
 ```
  sudo apt install ufw -y
  sudo ufw enable
+ sudo ufw allow 22
  sudo ufw allow 9151
  apt update -y
  apt install git -y
